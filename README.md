@@ -1,2 +1,2 @@
 # learn-git
-learning git
+learning git today
